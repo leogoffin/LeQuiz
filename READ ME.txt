@@ -1,0 +1,42 @@
+LeQuiz is lebest platform of multiple choice questions creation. 
+
+current version is 0.1 , published on 15/09/26
+
+
+============
+Authors
+------------
+ChatGPT (and Leo also) 
+
+============
+How to use
+------------
+- Unzip the files.
+- Double click the application (.exe file)
+- Et voilà
+
+(- You can right click the app to create a shortcut to wherever you want in your PC, preferably not the bin)
+
+============
+Features 
+------------
+- Quiz with multiple choices questions, true or false and multiple choices multpile answers questions.
+- Fully automated online database
+- Flag system to report irrelevant/wrong questions
+- User creation of questions and sharing in the database
+- Admin roles to approve user modifications
+
+============
+Road Map 
+------------
+- Full connection sytem
+- Algorithmic question suggestions
+- Xp system
+- Leaderboard
+
+============
+Known bugs
+-------------
+- You can't create an account
+- You can't sign in unless you are already an admin
+- Manualy modifying json files might crash the database, don't do that please (I know your IP, don't be silly ;) )

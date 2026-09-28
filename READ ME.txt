@@ -1,12 +1,12 @@
 LeQuiz is lebest platform of multiple choice questions creation. 
 
-current version is 0.2 , published on 16/09/26
+current version is 0.3 , published on 28/09/26
 
 
 ============
-Authors
+Author
 ------------
-ChatGPT (and Leo also) 
+Léo Goffin
 
 ============
 How to use
@@ -20,19 +20,24 @@ How to use
 ============
 Changelog
 ------------
+
+-- 0.2 --
 - Added encrypted xp system
 - Added algorithm for questions in quiz
 - App now remembers if you fail or succeed questions 
 
+-- 0.3 --
+- Leaderboard ! 
+- Visual cue when flagging question is done
+- bug fixes on question saving 
+
 ============
 Road Map 
-------------
-- Full connection sytem
-- Leaderboard
+------------ 
+- Aight I'm done fellas
 
 ============
 Known bugs
 -------------
-- You can't create an account
-- You can't sign in unless you are already an admin
-- Manualy modifying json files might crash the database, don't do that please
+- You can't sign in unless you are already an admin. It is a feature guys dw
+- Manualy modifying json file might crash the database, don't do that please
